@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+
+.env
+*.env
+notebook/.env
+
+
+.venv/
+__pycache__/
+*.pdf
+*.pkl
+*.faiss
+vector_store/
+faiss_store/
+.ipynb_checkpoints/
